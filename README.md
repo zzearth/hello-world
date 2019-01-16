@@ -1,4 +1,8 @@
 # hello-world
 just another repository 
-I'm a nice but shy person.
-I have become a little less shy.
+
+Hey!
+
+The name is Zekial, but I go by Zane.
+
+I think I'm a nice guy.
